@@ -555,6 +555,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -567,6 +568,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -748,5 +750,17 @@ tools:
   owner: iuc
   revisions:
   - 37bcc9fb0bb1
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: remove_terminal_stop_codons
+  owner: iuc
+  revisions:
+  - 0290a7285026
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: drhip
+  owner: iuc
+  revisions:
+  - dd2d60b55e0d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
