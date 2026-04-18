@@ -240,6 +240,7 @@ tools:
   - 25ab6b4e376e
   - 301e07345c93
   - 36e8d6d5d01b
+  - 5023535e9f8b
   - 7626ea9c2e1b
   - a36a45cb96fa
   - d37a7f17e35d
@@ -379,6 +380,7 @@ tools:
   revisions:
   - 146133e04fbc
   - 1e98dbb8d5bc
+  - 4e6ada84d334
   - 5c9fb40ae174
   - 6000c1589f33
   - 627be0156505
@@ -397,6 +399,7 @@ tools:
   - 237ae72d58a3
   - 2d032cff49eb
   - 4335cec181ba
+  - 4ee087eeda62
   - 6adef419e041
   - 7696d389675c
   - 87cb9cb44d1f
@@ -461,6 +464,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 9a3cb21a3661
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -476,6 +480,7 @@ tools:
   - 2d53571c2f00
   - 612ca26c197d
   - 61634a87efc7
+  - 89f11e2b0673
   - a4f18bbb4eca
   - caeb57858702
   - f93f0cdbaf18
@@ -506,6 +511,7 @@ tools:
   - b7d104ede67e
   - c48ffc96fe79
   - d562708bb095
+  - f04f39a6825d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pca
@@ -526,6 +532,7 @@ tools:
   - 0af678661e20
   - 2af1346e68c9
   - 470aed90aa41
+  - 6ecb3d77d46e
   - 818f9b69d8a0
   - e1317b5502fa
   - e29894cdea47
