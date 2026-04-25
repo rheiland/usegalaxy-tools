@@ -9,6 +9,7 @@ tools:
   - 0840ba83860c
   - 159b04e36791
   - 1c427e24fb79
+  - 428de92eac6b
   - 55e500606bbe
   - 6ffff37d3daf
   - 7beb76ffbc0f
@@ -43,6 +44,7 @@ tools:
   - c05232655d00
   - c9e516d65a3d
   - cab19c0452c4
+  - f8734e69f645
   tool_panel_section_id: bbtools
   tool_panel_section_label: BBTools
 - name: bbtools_bbnorm

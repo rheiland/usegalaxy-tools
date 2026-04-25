@@ -112,6 +112,7 @@ tools:
   revisions:
   - 079ea2eb9ae4
   - 3ea647006f17
+  - 4c52eab912ea
   - 6569d04885e5
   - 6761212b7f1d
   - 9ce3d6d4bd0e
@@ -288,6 +289,7 @@ tools:
   - 49885a825dc1
   - 4d13ff4556da
   - 4e9485eb5e9d
+  - 50551ca179d3
   - 5eb9d7217640
   - 627443c1e5ba
   - 63f85ef1a3d5
@@ -326,6 +328,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy
@@ -335,6 +338,7 @@ tools:
   - 00b4cf477625
   - 051642420aec
   - 056a5b14721d
+  - 07774580b606
   - 1527f00ddf7f
   - 188452adcaa0
   - 23b9bd244670
@@ -363,6 +367,7 @@ tools:
   - 4bf743518e41
   - 50554f806e16
   - 7c86ceaf523c
+  - aaf823b11580
   - dc8875a13914
   - ea698cd7e086
   - f5bbd4b34541
