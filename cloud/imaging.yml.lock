@@ -14,6 +14,7 @@ tools:
 - name: 2d_histogram_equalization
   owner: imgteam
   revisions:
+  - 99e0ef91ea5e
   - b1c2c210813c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -28,6 +29,7 @@ tools:
 - name: bfconvert
   owner: imgteam
   revisions:
+  - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -43,6 +45,7 @@ tools:
   owner: imgteam
   revisions:
   - 66fe62b96281
+  - aece93442819
   - bc4cf90cfc3b
   - ca362a9bfa20
   tool_panel_section_id: imaging

@@ -48,6 +48,7 @@ tools:
   owner: devteam
   revisions:
   - 4d343c1f606b
+  - 887a9bf73d1a
   - 8eb649e67987
   - 970e6333f07e
   tool_panel_section_id: sam_bam
