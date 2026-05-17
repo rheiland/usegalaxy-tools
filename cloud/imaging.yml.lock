@@ -123,6 +123,7 @@ tools:
 - name: points_association_nn
   owner: imgteam
   revisions:
+  - e7d22ed256f3
   - f3fad67af22c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
