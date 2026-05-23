@@ -189,6 +189,7 @@ tools:
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0c7fadfe52e2
   - 22a535d54360
   - 911de3a36b31
   - c19015f577a5

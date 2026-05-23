@@ -6,6 +6,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 69dca890852c
   - 6c2c1836728b
   - 9ede25e390ff
@@ -212,6 +213,7 @@ tools:
   revisions:
   - 04866f817daa
   - 4d343c1f606b
+  - 887a9bf73d1a
   - 8eb649e67987
   - 970e6333f07e
   - befc9dad4ca8
@@ -242,6 +244,7 @@ tools:
   revisions:
   - 5325e44297b9
   - 75d5afa09972
+  - c5f04783750e
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_ref
@@ -391,6 +394,7 @@ tools:
   owner: iuc
   revisions:
   - 2fe966f8532e
+  - 4413217d872c
   - 5854d0da92b4
   - b1a8d09e5a82
   tool_panel_section_id: sam_bam
