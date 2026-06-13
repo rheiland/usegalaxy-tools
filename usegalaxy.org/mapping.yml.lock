@@ -25,6 +25,7 @@ tools:
   - 09b2cdb7ace5
   - 0d4acadabb04
   - 749c918495f7
+  - a470b376503d
   - c3dd1aeb7d07
   - d5ceb9f3c25b
   - f6877ad76b00
@@ -158,6 +159,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -183,6 +185,7 @@ tools:
   - 090cbf2cb339
   - 371e4e21d5de
   - 544ea81a6914
+  - c05177db395f
   - c64bee2dc319
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -229,6 +232,7 @@ tools:
   - 54a6fb045aea
   - 64d732725a73
   - 7e353b95f0b6
+  - ac3a3feb4cf1
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
