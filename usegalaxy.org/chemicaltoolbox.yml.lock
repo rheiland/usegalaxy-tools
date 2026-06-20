@@ -70,6 +70,7 @@ tools:
   revisions:
   - 4242b4d68e9c
   - b59c91adeac1
+  - ddbfae6646f9
   - e2c36f62e22f
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -342,6 +343,7 @@ tools:
 - name: openbabel_addh
   owner: bgruening
   revisions:
+  - 6da72bb13a05
   - 6e4b7e0c61a6
   - 7b6fd1c273cd
   tool_panel_section_id: chemicaltoolbox
@@ -429,6 +431,7 @@ tools:
   owner: bgruening
   revisions:
   - 01ab890bf0ad
+  - 23284172bc4e
   - a638d8d13bb3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
