@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 01c37e54e86e
+  - 65fc9fc648f4
   - 952abbc4b1de
   - c3ffb2c1e314
   - fb7068d30ec9
@@ -17,6 +18,7 @@ tools:
   revisions:
   - 45828071edc3
   - 57aeaf6b237d
+  - 7157e98ec11a
   - 9d42a6133690
   - f1c35f3f310d
   tool_panel_section_id: hicexplorer
@@ -24,6 +26,7 @@ tools:
 - name: hicexplorer_chicexportdata
   owner: bgruening
   revisions:
+  - 0671a38a29d5
   - 163fd744e235
   - 1a31e75e979e
   - 23b8d6b8960c
@@ -33,6 +36,7 @@ tools:
 - name: hicexplorer_chicplotviewpoint
   owner: bgruening
   revisions:
+  - 009ea872cdf5
   - 013e53ccc7ac
   - '920526260066'
   - b9ab56aecd18
@@ -79,6 +83,7 @@ tools:
   owner: bgruening
   revisions:
   - 2dccb6bb0add
+  - 733162fae8b0
   - 782bdcb775fb
   - e06265d204f6
   - e8760fc0e29b
@@ -89,6 +94,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -125,6 +131,7 @@ tools:
   revisions:
   - 3a6a5381db36
   - 4401ed529d2c
+  - 4630448a0d88
   - 87eb9c58cd19
   - a315574104c6
   tool_panel_section_id: hicexplorer
@@ -170,6 +177,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 77d8e0fd162a
   tool_panel_section_id: hicexplorer
@@ -177,6 +185,7 @@ tools:
 - name: hicexplorer_hicfindrestrictionsites
   owner: bgruening
   revisions:
+  - 430acc59e883
   - 6c5097f6d41e
   - 972dcccb5bbc
   - f0b1bd38745a
@@ -189,6 +198,7 @@ tools:
   - 11de0d28ab30
   - 478aacfbaa37
   - 755df866ad0c
+  - 7b9fa42ca59c
   - ec4b948dc6f0
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -241,6 +251,7 @@ tools:
   owner: bgruening
   revisions:
   - 11fa44ee0603
+  - 7011782fdbaf
   - 977dc15add20
   - 9d93c8fbe0a6
   - f72063d9426b

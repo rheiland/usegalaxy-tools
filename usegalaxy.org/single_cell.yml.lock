@@ -168,6 +168,7 @@ tools:
   - 6f0d0c784f09
   - 9301df6f892d
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -178,6 +179,7 @@ tools:
   - 43cb7b5a6fe7
   - 7e8c677a7b71
   - 8db95f488f0f
+  - 9ef202055d5c
   - be1fdce914c6
   - c4209ea387d4
   - d1e49c3c0aa2
@@ -243,6 +245,7 @@ tools:
   owner: iuc
   revisions:
   - 3478133d0f6f
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - a6821f856a1e
@@ -252,6 +255,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 44b935f2271b
@@ -699,6 +703,7 @@ tools:
   owner: iuc
   revisions:
   - af8bdeb89691
+  - b9e7b804ec67
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_data
@@ -711,6 +716,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - 7c728a178c4d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -153,6 +154,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -195,6 +197,7 @@ tools:
   - 340bc17f49cf
   - 388dbecbf03b
   - 5be72b7648fa
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042
@@ -279,6 +282,7 @@ tools:
   - 6505bd37670d
   - 71740308d412
   - 9ef6920c3089
+  - baf229b1fdfd
   - bf0a4667e3ce
   - df25d4fb79b7
   - e5e767089163
@@ -361,6 +365,7 @@ tools:
   - 0346286a3b0a
   - 2b16ba799da9
   - 511e5e3cd55e
+  - 7087d9a23185
   - 79b48f02db49
   - 8fef980d48b5
   - 9c942221e135
@@ -378,6 +383,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - c4fb391275a0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
