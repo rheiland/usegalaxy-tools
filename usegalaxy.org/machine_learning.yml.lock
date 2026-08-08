@@ -96,6 +96,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -122,6 +123,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -171,6 +173,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 5a125d1ac9b9
   - 5ae00d2908f2
@@ -271,6 +274,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 7366e5108e9f
   - 7614281473da
   - b07416ec8d16
@@ -289,6 +293,7 @@ tools:
   - 7ae443e6217d
   - 823ecc0bce45
   - 8b1b2b91f8d0
+  - 900c42c3eef4
   - 9871a634540f
   - aa83e7e3c398
   - cd02bf168d23
@@ -298,6 +303,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -313,6 +319,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 1682df52c084
   - 1a53edc4b438
@@ -412,6 +419,7 @@ tools:
   - 14f0ccc85505
   - 3e4a7684d402
   - 40f4447733b2
+  - 57938c2f6ef5
   - 63417d0acc72
   - 913bf1c4c7bb
   - 91c4e3331208
@@ -465,6 +473,7 @@ tools:
   - c2a7717d96ce
   - c2e2aa55dd5c
   - c374098d4f5c
+  - e8694d796a7e
   - eaddff553324
   - f73a2b68a37b
   tool_panel_section_id: machine_learning
@@ -478,6 +487,7 @@ tools:
   - 61634a87efc7
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -486,6 +496,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 222c02df5d55
   - 4a229a7ad638
   - 6fabdcde0214
@@ -499,6 +510,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554
@@ -518,6 +530,7 @@ tools:
   - c17f3eacdb14
   - caf164dd0e18
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
@@ -525,6 +538,7 @@ tools:
   revisions:
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 818f9b69d8a0
   - e1317b5502fa
