@@ -46,6 +46,7 @@ tools:
   revisions:
   - 1b851f87fbe0
   - 30f6985f0ac7
+  - 37d067694d40
   - 38b6d12edc68
   - 5dbff3a5845a
   - 6f66ae7c5f7a
@@ -105,6 +106,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - e8ac2b53f262
@@ -267,6 +269,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: masigpro
