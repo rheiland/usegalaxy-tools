@@ -205,6 +205,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -333,6 +334,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -499,6 +501,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 27f8bd20a936
   - 3045d322d4ac
   - 74f96ebc5554
@@ -518,6 +521,7 @@ tools:
   - c17f3eacdb14
   - caf164dd0e18
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
