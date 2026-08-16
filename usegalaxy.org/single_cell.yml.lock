@@ -213,6 +213,7 @@ tools:
   owner: iuc
   revisions:
   - 0bff0ee0683a
+  - 1c727d097441
   - 49776718ae90
   - 7e014059a88d
   - a4b734cd253b
@@ -232,6 +233,7 @@ tools:
 - name: raceid_inspectclusters
   owner: iuc
   revisions:
+  - 25a519a368a4
   - 37a47c4fd84d
   - 41f34e925bd5
   - be4646256624
@@ -693,6 +695,7 @@ tools:
   owner: iuc
   revisions:
   - 51eb02d9b17a
+  - b70382a113e1
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_create
