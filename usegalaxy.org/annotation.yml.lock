@@ -143,6 +143,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -193,6 +194,7 @@ tools:
   - 3f6e5c701945
   - 5f8efb080f49
   - 8c8299e553ec
+  - a3d1bf938fa8
   - dddd7ef63469
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -202,6 +204,7 @@ tools:
   - 1f5641a52664
   - 31812e7a1315
   - ded48b36f3b7
+  - ef1966bcece3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_egapx
@@ -213,6 +216,7 @@ tools:
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
+  - fea9e5d3fb28
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: optitype
@@ -534,6 +538,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -594,6 +599,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
@@ -615,6 +621,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -634,6 +641,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -681,6 +689,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - a30ef2a2b3a9
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -705,6 +714,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

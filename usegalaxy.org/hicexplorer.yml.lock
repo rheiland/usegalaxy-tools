@@ -89,6 +89,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -153,6 +154,7 @@ tools:
   - 0f5786ffa10d
   - 2786a931cad2
   - 2b4d6a8dab36
+  - 5faa9d3839d0
   - cd40ca76865a
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -170,6 +172,7 @@ tools:
   revisions:
   - 07dd436ea686
   - 4977f65da0ff
+  - 5b245b3ded3f
   - 5dfba24d7bdd
   - 77d8e0fd162a
   tool_panel_section_id: hicexplorer
@@ -177,6 +180,7 @@ tools:
 - name: hicexplorer_hicfindrestrictionsites
   owner: bgruening
   revisions:
+  - 430acc59e883
   - 6c5097f6d41e
   - 972dcccb5bbc
   - f0b1bd38745a
@@ -189,6 +193,7 @@ tools:
   - 11de0d28ab30
   - 478aacfbaa37
   - 755df866ad0c
+  - 7b9fa42ca59c
   - ec4b948dc6f0
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -241,6 +246,7 @@ tools:
   owner: bgruening
   revisions:
   - 11fa44ee0603
+  - 7011782fdbaf
   - 977dc15add20
   - 9d93c8fbe0a6
   - f72063d9426b
@@ -252,6 +258,7 @@ tools:
   - 2aa5b6b65197
   - 5e83c077e31d
   - 6d042c96aceb
+  - b1815cb2b298
   - f34ab9882252
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -260,6 +267,7 @@ tools:
   revisions:
   - 1da5f169b491
   - 77919cc3618e
+  - b03f8b95b08c
   - c3e5e2cf12b7
   - f86ca478c6af
   tool_panel_section_id: hicexplorer
