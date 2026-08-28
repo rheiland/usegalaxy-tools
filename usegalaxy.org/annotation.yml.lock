@@ -542,6 +542,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -594,6 +595,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
@@ -613,6 +615,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 59d308975e63
   - 6d5c8a6ceea0
   - eaa563bd535a
