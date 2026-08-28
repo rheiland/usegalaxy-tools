@@ -212,6 +212,7 @@ tools:
   revisions:
   - 04866f817daa
   - 4d343c1f606b
+  - 887a9bf73d1a
   - 8eb649e67987
   - 970e6333f07e
   - befc9dad4ca8
@@ -306,6 +307,7 @@ tools:
   - b5527cc104ab
   - ce32171c6d44
   - d0a568e1904b
+  - ef678e1f70a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_merge
