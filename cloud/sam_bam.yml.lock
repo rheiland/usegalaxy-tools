@@ -84,6 +84,7 @@ tools:
   owner: iuc
   revisions:
   - 36677f429310
+  - 37c8eb55315d
   - 740ce0a18f0d
   - a7617eb92baf
   - c8bc9d08b0e3
@@ -274,6 +275,7 @@ tools:
 - name: bamtools_split_mapped
   owner: iuc
   revisions:
+  - 90af4f8f59af
   - fa7b5520ae53
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM

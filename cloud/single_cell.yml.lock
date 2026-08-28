@@ -99,6 +99,7 @@ tools:
   - 6f0d0c784f09
   - 9301df6f892d
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -177,6 +178,7 @@ tools:
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
+  - 42a08854eb66
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
