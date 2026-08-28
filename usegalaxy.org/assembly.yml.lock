@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -144,6 +145,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -153,6 +155,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -361,6 +364,7 @@ tools:
   - 0346286a3b0a
   - 2b16ba799da9
   - 511e5e3cd55e
+  - 7087d9a23185
   - 79b48f02db49
   - 8fef980d48b5
   - 9c942221e135
@@ -433,12 +437,14 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
@@ -447,6 +453,7 @@ tools:
   owner: iuc
   revisions:
   - 3967889cda03
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
