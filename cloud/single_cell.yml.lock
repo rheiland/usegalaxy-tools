@@ -76,6 +76,7 @@ tools:
   - 3d748954434b
   - 7e8c677a7b71
   - 9bd945a03d7b
+  - 9ef202055d5c
   - be1fdce914c6
   - d1e49c3c0aa2
   - e6a8d5fdca85
@@ -259,6 +260,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -268,6 +270,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 2e6029e47eb5
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -282,6 +285,7 @@ tools:
   revisions:
   - 27c054e8d949
   - 3b5ef3b00cdd
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - d86cb2ce311b
