@@ -253,6 +253,7 @@ tools:
   - 0c74d3164ac8
   - 118e230e85ce
   - 3f25f37ee3db
+  - 43a859a0fab5
   - 4c4ec859c31a
   - 7388ffedf12c
   - 7442b94d6a1e
@@ -289,6 +290,7 @@ tools:
   - 7ae443e6217d
   - 823ecc0bce45
   - 8b1b2b91f8d0
+  - 900c42c3eef4
   - 9871a634540f
   - aa83e7e3c398
   - cd02bf168d23
@@ -298,6 +300,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -313,6 +316,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 1682df52c084
   - 1a53edc4b438
@@ -333,6 +337,7 @@ tools:
   - 4483b84310ec
   - 5276bdb49315
   - 5773e98921fc
+  - 5bcf779d901f
   - 6d21b03e00a1
   - 74adae8d7b0f
   - 96bb4c49e30e
@@ -478,6 +483,7 @@ tools:
   - 61634a87efc7
   - a4f18bbb4eca
   - caeb57858702
+  - f86c0419af43
   - f93f0cdbaf18
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
