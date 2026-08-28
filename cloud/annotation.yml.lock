@@ -56,6 +56,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
   tool_panel_section_id: annotation
@@ -77,6 +78,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -84,6 +86,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
