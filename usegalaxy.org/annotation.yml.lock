@@ -9,6 +9,7 @@ tools:
   - 111884f0d912
   - 8a22554cdde2
   - bf68eb663bc3
+  - c105b66eaab1
   - eaee459f3d69
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -70,6 +71,7 @@ tools:
   - 602fb8e63aa7
   - 94170eee0ad8
   - c5a90fa4b8dd
+  - cc217867028e
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -143,6 +145,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -386,6 +389,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 1980b199b14a
   - 53b22b7dff19
   - 945b31d82638
   - c0a0e79d7196
@@ -574,6 +578,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -586,6 +591,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 6d8be3337e2a
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -615,6 +621,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -634,6 +641,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -705,6 +713,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
