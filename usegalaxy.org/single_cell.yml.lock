@@ -243,6 +243,7 @@ tools:
   owner: iuc
   revisions:
   - 3478133d0f6f
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - a6821f856a1e
@@ -722,6 +723,7 @@ tools:
 - name: seurat_preprocessing
   owner: iuc
   revisions:
+  - 5d5fe5659252
   - 6bccf5f85f92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -729,5 +731,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - a9085181e2a8
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

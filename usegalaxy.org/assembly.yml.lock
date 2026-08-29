@@ -8,6 +8,7 @@ tools:
   revisions:
   - '392811378515'
   - 53dd00a4ab68
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -144,6 +145,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -231,6 +233,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -359,6 +362,7 @@ tools:
   revisions:
   - 02831bf9e95f
   - 0346286a3b0a
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 79b48f02db49
@@ -433,6 +437,7 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
