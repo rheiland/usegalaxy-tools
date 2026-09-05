@@ -193,6 +193,7 @@ tools:
   - 3f6e5c701945
   - 5f8efb080f49
   - 8c8299e553ec
+  - a3d1bf938fa8
   - dddd7ef63469
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -202,6 +203,7 @@ tools:
   - 1f5641a52664
   - 31812e7a1315
   - ded48b36f3b7
+  - ef1966bcece3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_egapx
@@ -213,11 +215,13 @@ tools:
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
+  - fea9e5d3fb28
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -424,6 +428,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -567,6 +572,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

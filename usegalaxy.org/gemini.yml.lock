@@ -15,6 +15,7 @@ tools:
   revisions:
   - 18d13111692b
   - 2c68e29c3527
+  - 8f410ca7eb89
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_load
@@ -22,6 +23,7 @@ tools:
   revisions:
   - 2270a8b83c12
   - 45296e47d565
+  - cca3391dc8b4
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
 - name: gemini_query

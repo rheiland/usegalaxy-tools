@@ -254,6 +254,7 @@ tools:
 - name: bamtools_split_tag
   owner: iuc
   revisions:
+  - a0014762e2ee
   - e30af4e78cd3
   - e9b9c489aacc
   tool_panel_section_id: sam_bam
@@ -284,6 +285,7 @@ tools:
 - name: samtools_fixmate
   owner: iuc
   revisions:
+  - 2f395ebff85f
   - 41e36c99a008
   - 595ae1ba934a
   - 68a116f469db
@@ -377,6 +379,7 @@ tools:
   - 6a8febad1f6c
   - 77889ed49dbc
   - a941babb9268
+  - d2f176e331ef
   - f20b704ba069
   - f597cb9b33bf
   tool_panel_section_id: sam_bam
@@ -391,6 +394,7 @@ tools:
   owner: iuc
   revisions:
   - 2fe966f8532e
+  - 4413217d872c
   - 5854d0da92b4
   - b1a8d09e5a82
   tool_panel_section_id: sam_bam
