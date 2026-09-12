@@ -147,6 +147,7 @@ tools:
   - 13cf83ced60c
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -716,12 +717,14 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 83f3879b10e8
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_preprocessing
   owner: iuc
   revisions:
+  - 5d5fe5659252
   - 6bccf5f85f92
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -729,5 +732,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - a9085181e2a8
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
