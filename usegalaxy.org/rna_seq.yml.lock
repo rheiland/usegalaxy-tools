@@ -37,6 +37,7 @@ tools:
   - 26371a1df031
   - 6c19daec423d
   - b12d81af0291
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -267,6 +268,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: masigpro
@@ -489,6 +491,7 @@ tools:
   - 3f9ff31c88bb
   - 51a3b375b7b8
   - 9d93999d9028
+  - c312b506ee6f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: targetfinder
