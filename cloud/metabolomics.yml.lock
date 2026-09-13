@@ -67,6 +67,7 @@ tools:
   owner: lecorguille
   revisions:
   - 9291271ec4d9
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_xcmsset
@@ -109,6 +110,7 @@ tools:
 - name: xcms_fillpeaks
   owner: lecorguille
   revisions:
+  - 564d6ab0cf18
   - a8d866a71ba1
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -116,6 +118,7 @@ tools:
   owner: lecorguille
   revisions:
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: metams_rungc
