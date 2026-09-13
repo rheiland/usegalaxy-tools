@@ -107,6 +107,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - a7b951572609
   - c822c5c1feef
@@ -153,6 +154,7 @@ tools:
   - 43c146e25a43
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - c891d8b33ede
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -162,6 +164,7 @@ tools:
   - 0bff0ee0683a
   - 49776718ae90
   - a4b734cd253b
+  - d2755d6016ca
   - f911a64454fb
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -188,6 +191,7 @@ tools:
   revisions:
   - 04b494623f8e
   - '528052085629'
+  - a8b6292cdffc
   - b0fe3e482cb7
   - c9944a2600f1
   - e4c01dcece8b
