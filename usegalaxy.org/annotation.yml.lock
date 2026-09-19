@@ -160,6 +160,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -213,6 +214,7 @@ tools:
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
+  - fea9e5d3fb28
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: optitype
@@ -386,6 +388,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 1980b199b14a
   - 53b22b7dff19
   - 945b31d82638
   - c0a0e79d7196
@@ -705,6 +708,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
