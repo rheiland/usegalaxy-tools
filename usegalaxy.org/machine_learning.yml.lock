@@ -13,6 +13,7 @@ tools:
   - 975512caae22
   - a48e750cfd25
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -23,6 +24,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -35,6 +37,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -65,6 +68,7 @@ tools:
   - 4a7df9abe4c4
   - 4eca9d109de1
   - 4fee4504646e
+  - 7363de120cc2
   - 7d78a6afc958
   - afd0864d18b6
   - c5c324ac29fc
@@ -206,6 +210,7 @@ tools:
   - 0630258dcf35
   - 14fa42b095c4
   - 6d23883e0b94
+  - 70f61a4de941
   - 73d2ef652879
   - 80852884053f
   - b7c3e9a3b954
@@ -306,6 +311,7 @@ tools:
   - ad7e0b4291ee
   - aeca97d9a214
   - bb9fc9d46ea4
+  - dcbfe6ed593b
   - e10e776f2109
   - e13a7c05b3a4
   tool_panel_section_id: machine_learning
@@ -461,6 +467,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 69f627250dea
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
@@ -514,6 +521,7 @@ tools:
   - 03e0da430d44
   - 24c1cc2dd4a4
   - 3af626081467
+  - 4a1addf7cc1e
   - 945a53c248de
   - c17f3eacdb14
   - caf164dd0e18
