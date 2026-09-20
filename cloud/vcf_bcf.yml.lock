@@ -8,6 +8,7 @@ tools:
   revisions:
   - 8aa352093d73
   - 9a260f6fab93
+  - b75e49f360de
   - d6dc477167f8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -54,6 +55,7 @@ tools:
 - name: bcftools_plugin_missing2ref
   owner: iuc
   revisions:
+  - 433f1673736a
   - 793ae03deb13
   - 8b260d252ff4
   - dfef7a353ed0
@@ -135,6 +137,7 @@ tools:
   owner: iuc
   revisions:
   - 591cc8518033
+  - 7aea930ab6cc
   - b17394940c7a
   - fcf941c241cc
   tool_panel_section_id: vcf_bcf
@@ -190,6 +193,7 @@ tools:
 - name: bcftools_view
   owner: iuc
   revisions:
+  - 12c1e7346150
   - 1a2ef636f48e
   - 23680a42e149
   - 2a7d7ee53975
