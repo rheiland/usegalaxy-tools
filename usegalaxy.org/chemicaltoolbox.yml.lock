@@ -539,6 +539,7 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
@@ -786,6 +787,7 @@ tools:
 - name: confab
   owner: bgruening
   revisions:
+  - 1c82b51f7939
   - 461f64330945
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox

@@ -158,6 +158,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -210,6 +211,7 @@ tools:
   - 4cd7884635c2
   - 78c4cef2b5a9
   - 79182c2a8c80
+  - 97c8a5fbcca0
   - a68e128cdb1a
   - aa5586d83ae3
   - d10e7502aba8
@@ -220,6 +222,7 @@ tools:
   owner: iuc
   revisions:
   - 35ea4a8b1ea6
+  - f9ea02afa87d
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_axtchain
@@ -229,6 +232,7 @@ tools:
   - 54a6fb045aea
   - 64d732725a73
   - 7e353b95f0b6
+  - 86b758c95d19
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
