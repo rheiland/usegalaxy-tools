@@ -64,6 +64,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - cfaf5a405371
   - e1c3c2f2a834
@@ -74,6 +75,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -95,6 +97,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -116,6 +119,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   tool_panel_section_id: single_cell
@@ -168,6 +172,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 72979cac22b2
@@ -199,6 +204,7 @@ tools:
   - 71ce24befa24
   - 88c07fc4024c
   - a896b8b7d264
+  - d421497303c0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: slice_image
@@ -259,6 +265,7 @@ tools:
   revisions:
   - 38db3fef7aad
   - 49ce1315722c
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
