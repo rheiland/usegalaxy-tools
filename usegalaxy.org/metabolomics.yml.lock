@@ -49,6 +49,7 @@ tools:
   owner: recetox
   revisions:
   - 6c7b17d38a1d
+  - d3dfaa7496a2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: mfassignr_findrecalseries
@@ -60,6 +61,7 @@ tools:
 - name: mfassignr_recal
   owner: recetox
   revisions:
+  - 91af26deeb98
   - cfcf45ba58be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -67,6 +69,7 @@ tools:
   owner: recetox
   revisions:
   - 22c80f584bb1
+  - d79690df2e83
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: table_pandas_rename_column
