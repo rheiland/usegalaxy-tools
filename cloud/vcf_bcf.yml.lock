@@ -25,6 +25,7 @@ tools:
   - '365325116147'
   - dd72ff87cfd0
   - f203ea355bc8
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_convert_to_vcf
@@ -129,6 +130,7 @@ tools:
   - 2331ddcbd5aa
   - 9ef52d95114b
   - a0b1c0bdfa5a
+  - b7432d10bd2d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_stats
@@ -184,6 +186,7 @@ tools:
   revisions:
   - 072f606e2e69
   - 07396b423218
+  - 89be90465e11
   - c277260d3fab
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF

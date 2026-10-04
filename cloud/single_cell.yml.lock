@@ -107,6 +107,7 @@ tools:
   revisions:
   - 05631436cdf1
   - 0f1aaff9b22d
+  - 27f120c69246
   - 4c9fa3c63d9e
   - a7b951572609
   - c822c5c1feef
@@ -116,6 +117,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   tool_panel_section_id: single_cell
