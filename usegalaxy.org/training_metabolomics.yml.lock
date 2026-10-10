@@ -78,6 +78,7 @@ tools:
   - 00e66c401366
   - 07cac38cbd29
   - 357df6c47d92
+  - 360836810cd5
   - 3f7790b73906
   - 83c4b4359ac4
   - a6583110825c
@@ -155,6 +156,7 @@ tools:
   - 8846a03995d3
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary

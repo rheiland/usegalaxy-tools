@@ -57,6 +57,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -182,6 +183,7 @@ tools:
   revisions:
   - 36960e552ddc
   - 51d28b4d3a04
+  - 54def72f84b2
   - 71dfde92fd57
   - 7d9166ecd10f
   - 845a7025ba81
@@ -220,6 +222,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -261,6 +264,7 @@ tools:
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -294,6 +298,7 @@ tools:
 - name: deepvariant
   owner: iuc
   revisions:
+  - 0a151b5f95e4
   - 63b68fe4af85
   - 918c8b94c8d8
   - 98fe794d2ec0
@@ -320,6 +325,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba
@@ -328,6 +334,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
