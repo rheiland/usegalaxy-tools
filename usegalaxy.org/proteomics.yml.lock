@@ -11,6 +11,7 @@ tools:
   - 3ec27b4cee7c
   - 7fdd9119cc4f
   - a6ff76e057fd
+  - c9b13d4069c8
   - f35bb9d0c93e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -154,6 +155,7 @@ tools:
   - 387754f0746e
   - 3f947afe3f71
   - 42ad5460c1d4
+  - c3a75e21f2bf
   - da1531027506
   - da9ebef968bd
   - e969a182e3cb
