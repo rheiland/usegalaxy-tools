@@ -6,6 +6,7 @@ tools:
 - name: deeptools_compute_matrix
   owner: bgruening
   revisions:
+  - 1030f37ff2f0
   - 514fa53b5efb
   - a60c359ec43c
   tool_panel_section_id: deeptools
@@ -13,6 +14,7 @@ tools:
 - name: deeptools_plot_heatmap
   owner: bgruening
   revisions:
+  - 7fdfac4711b2
   - a4dfb122e52b
   - e4c7985d4585
   tool_panel_section_id: deeptools
@@ -49,6 +51,7 @@ tools:
   owner: bgruening
   revisions:
   - 2c37ce318bc3
+  - 7e3c511d4d24
   - e479c7ca5570
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -56,6 +59,7 @@ tools:
   owner: bgruening
   revisions:
   - 01fb6a7654e6
+  - 3d5024351691
   - 78f405266706
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -118,6 +122,7 @@ tools:
 - name: deeptools_bigwig_average
   owner: bgruening
   revisions:
+  - 3c478e39df6a
   - 4a53856a5b85
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
