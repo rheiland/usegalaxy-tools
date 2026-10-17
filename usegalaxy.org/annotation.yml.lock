@@ -9,6 +9,7 @@ tools:
   - 111884f0d912
   - 8a22554cdde2
   - bf68eb663bc3
+  - c105b66eaab1
   - eaee459f3d69
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -19,6 +20,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -310,6 +312,7 @@ tools:
   - 2b21643ce8d7
   - 36093854bfc7
   - 8bc80c2a15b3
+  - d221bf907235
   - edcf603bedfd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -534,6 +537,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -567,6 +571,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -574,6 +579,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 25f3b474ca6f
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -586,6 +592,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 6d8be3337e2a
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -593,6 +600,7 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -615,6 +623,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -627,6 +636,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -634,6 +644,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -705,6 +716,7 @@ tools:
 - name: hmmer_hmmemit
   owner: iuc
   revisions:
+  - 82d6ca8212dc
   - be03abdc6451
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

@@ -318,6 +318,7 @@ tools:
   owner: bgruening
   revisions:
   - 9adf3fae2771
+  - abf3ff7ff5e7
   - c19608db6b15
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -376,6 +377,7 @@ tools:
   revisions:
   - 22a866858b81
   - e376ba0fcde0
+  - f2aef0ee9d78
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: mdanalysis_ramachandran_protein
@@ -429,6 +431,7 @@ tools:
   owner: bgruening
   revisions:
   - 01ab890bf0ad
+  - 23284172bc4e
   - a638d8d13bb3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -509,6 +512,7 @@ tools:
 - name: openbabel_filter
   owner: bgruening
   revisions:
+  - 30a4b898e306
   - 988085c7a0ea
   - df4dc55197dd
   tool_panel_section_id: chemicaltoolbox
@@ -518,6 +522,7 @@ tools:
   revisions:
   - 75ee9c410951
   - 7672039a0bb0
+  - aa62ff7e28b5
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_genprop
@@ -842,6 +847,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 1c7e10729065
   - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox

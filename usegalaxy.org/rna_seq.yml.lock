@@ -37,6 +37,7 @@ tools:
   - 26371a1df031
   - 6c19daec423d
   - b12d81af0291
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -46,6 +47,7 @@ tools:
   revisions:
   - 1b851f87fbe0
   - 30f6985f0ac7
+  - 37d067694d40
   - 38b6d12edc68
   - 5dbff3a5845a
   - 6f66ae7c5f7a
@@ -76,6 +78,7 @@ tools:
   - 76d290331481
   - 8eb8750070d4
   - 914cfcba0ec8
+  - a356a3e21032
   - ae618321f34a
   - cbf488da3b2c
   - cef79931dda5
@@ -107,6 +110,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -117,12 +121,14 @@ tools:
   - 4f9c4e6566e5
   - 60f888039fb2
   - c971db6f0fe5
+  - f71c54748ff2
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: kallisto_pseudo
   owner: iuc
   revisions:
   - 01247aaf0a10
+  - 3741c4204eb5
   - 5ae5c312d718
   - 87c11c05d238
   - ce5d418183c5
@@ -191,6 +197,7 @@ tools:
   - 67b0b160903a
   - 8f6836089479
   - 916cb26bd9d3
+  - c5a9d57d7eb1
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: gffcompare
@@ -267,6 +274,7 @@ tools:
   revisions:
   - d3ebbf39b1c5
   - de7795890bc5
+  - ead35c868b99
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: masigpro

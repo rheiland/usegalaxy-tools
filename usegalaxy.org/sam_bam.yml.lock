@@ -6,6 +6,7 @@ tools:
 - name: samtools_sort
   owner: devteam
   revisions:
+  - 2ce517eb9af2
   - 69dca890852c
   - 6c2c1836728b
   - 9ede25e390ff
@@ -223,6 +224,7 @@ tools:
   revisions:
   - 108db6635177
   - 1dfd95ee241e
+  - 47db0f26ca31
   - 4fe8a75334c8
   - 62e4d6cdbaa7
   - 993b19f20c76
@@ -249,6 +251,7 @@ tools:
   revisions:
   - 9b520009db81
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag
