@@ -7,12 +7,14 @@ tools:
   owner: iuc
   revisions:
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
   owner: iuc
   revisions:
+  - 573cfe217474
   - 7844dbe4f8e2
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -25,12 +27,14 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -38,6 +42,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: repeatmodeler
@@ -50,6 +55,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - ba6d2c32f797
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -58,6 +64,7 @@ tools:
   revisions:
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
@@ -66,6 +73,7 @@ tools:
   - 2babe6d5c561
   - 4e70d88adf2f
   - c5a90fa4b8dd
+  - cc217867028e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_fcs_adaptor
@@ -77,6 +85,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - c8913c72ee87
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -125,6 +134,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -132,6 +142,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -156,5 +167,29 @@ tools:
   owner: iuc
   revisions:
   - 4d5cf5a423d5
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: remove_terminal_stop_codons
+  owner: iuc
+  revisions:
+  - 0290a7285026
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: drhip
+  owner: iuc
+  revisions:
+  - e301c523e83d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_paths
+  owner: iuc
+  revisions:
+  - 7f622ac47f04
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: vg_giraffe
+  owner: iuc
+  revisions:
+  - 479e4a566537
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
