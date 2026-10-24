@@ -67,6 +67,7 @@ tools:
   owner: recetox
   revisions:
   - 22c80f584bb1
+  - d79690df2e83
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: table_pandas_rename_column
