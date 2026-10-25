@@ -47,6 +47,7 @@ tools:
 - name: bamtools
   owner: devteam
   revisions:
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 8eb649e67987
   - 970e6333f07e
@@ -223,6 +224,7 @@ tools:
   owner: devteam
   revisions:
   - 108db6635177
+  - 47db0f26ca31
   - 62e4d6cdbaa7
   - 993b19f20c76
   - bd735cae4ce6
