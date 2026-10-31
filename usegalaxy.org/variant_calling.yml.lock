@@ -115,6 +115,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -270,6 +271,7 @@ tools:
   - 09f5c6f3088a
   - 43fffeed243f
   - 93c4b04a0769
+  - c7a721c21e01
   - ceff2f6a5368
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -294,6 +296,7 @@ tools:
 - name: deepvariant
   owner: iuc
   revisions:
+  - 0a151b5f95e4
   - 63b68fe4af85
   - 918c8b94c8d8
   - 98fe794d2ec0
@@ -313,6 +316,7 @@ tools:
 - name: snp_dists
   owner: iuc
   revisions:
+  - 1be3e9c59601
   - f78492521996
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -320,6 +324,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba
@@ -328,6 +333,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -336,6 +342,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - cf01dd6c6b1f
   tool_panel_section_id: variant_calling
@@ -343,6 +350,7 @@ tools:
 - name: arriba_get_filters
   owner: iuc
   revisions:
+  - 26ad140cac5b
   - 6d1f577b3e47
   - 703a2cb3fb38
   - 7a5a2d28c539

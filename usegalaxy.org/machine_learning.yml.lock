@@ -13,6 +13,7 @@ tools:
   - 975512caae22
   - a48e750cfd25
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -23,6 +24,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -75,6 +77,7 @@ tools:
   - f2877a8b54e4
   - f4cb41f458fd
   - f5b713d70f1a
+  - fd4ec5f6909d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -86,6 +89,7 @@ tools:
   - 60c726f5cc5e
   - 65820fb7257b
   - 83228baae3c5
+  - 8ef3ef591dc8
   - 948eca2af157
   - 980bf31faa05
   - 9991c4ddde14
@@ -120,6 +124,7 @@ tools:
   - 66d7efc06000
   - 772e0e89fc68
   - 9b6faa256f15
+  - ad11e219bd5a
   - c51571d0a0b1
   - f7ecdde4b201
   tool_panel_section_id: machine_learning
@@ -131,6 +136,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3fbbea66522d
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -387,6 +393,7 @@ tools:
   - 7d98dfb04d27
   - dc17e2878dc1
   - f04a2405f3fe
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
