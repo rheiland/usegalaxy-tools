@@ -15,6 +15,7 @@ tools:
   owner: iuc
   revisions:
   - 0c84cce7b030
+  - 4c8bab9ae1b1
   - 5a92f4c476b5
   - 87c1c223c704
   tool_panel_section_id: multiple_alignments
@@ -71,6 +72,7 @@ tools:
 - name: mummer_mummer
   owner: iuc
   revisions:
+  - 0f7ebb3a2f0e
   - 48823c9635a4
   - 48badcd29c5d
   - 57f042937ba7
@@ -86,6 +88,7 @@ tools:
   - 315c678562d2
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   - c9685bc0407c
   - deacc6b40cc0
   tool_panel_section_id: multiple_alignments
@@ -105,6 +108,7 @@ tools:
   owner: iuc
   revisions:
   - 029a793f39b6
+  - 0f42cf7485e8
   - 4fc0cb2ac8ae
   - c0cedc12fcc5
   - e8c60daa41e0
@@ -120,6 +124,7 @@ tools:
   - 636b049e6141
   - 7cd7a55a678d
   - a18fb4f826fc
+  - a79662294201
   - e18267f90096
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
@@ -144,6 +149,7 @@ tools:
   - 0c0288a9d92c
   - 13a99f96d6cc
   - 1c65ddbaeefa
+  - 1e273199758f
   - 1e70671a90c6
   - 20bef04b5272
   - 60ed1c94f584
@@ -170,6 +176,7 @@ tools:
   revisions:
   - 2b1884fdb849
   - 7ca2e72f9194
+  - a8a248f95e66
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: ucsc_maffetch
@@ -191,6 +198,7 @@ tools:
   revisions:
   - 0a4c5ab34cf1
   - 5481c3cfacc3
+  - 6886e1ab8884
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: ucsc_maftoaxt

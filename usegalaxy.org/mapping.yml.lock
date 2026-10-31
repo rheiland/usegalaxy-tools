@@ -6,6 +6,7 @@ tools:
 - name: bioext_bealign
   owner: iuc
   revisions:
+  - 10f185ef7aee
   - 396cc0c65700
   - 4ad7321205c9
   - 8a7462c0ac14
@@ -25,6 +26,7 @@ tools:
   - 09b2cdb7ace5
   - 0d4acadabb04
   - 749c918495f7
+  - a470b376503d
   - c3dd1aeb7d07
   - d5ceb9f3c25b
   - f6877ad76b00
@@ -47,6 +49,7 @@ tools:
   - 01ac0a5fedc3
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - e188dc7a68e6
@@ -56,6 +59,7 @@ tools:
   owner: iuc
   revisions:
   - 04b73d626680
+  - 12281c334d02
   - 137942fac417
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -121,6 +125,7 @@ tools:
 - name: rna_starsolo
   owner: iuc
   revisions:
+  - 0c94634e278b
   - 13022c3d3076
   - 178bdbdb6d24
   - 381a32c51141
@@ -260,6 +265,7 @@ tools:
   owner: iuc
   revisions:
   - 1999f87602f7
+  - 595b7f566734
   - a28010c3ac9b
   - d2039064b27d
   tool_panel_section_id: mapping
