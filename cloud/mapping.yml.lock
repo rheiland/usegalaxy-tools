@@ -77,6 +77,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - 7febc71de9c3
   - af91699b8d4c
   - bec6ba059ded
   tool_panel_section_id: mapping

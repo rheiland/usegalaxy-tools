@@ -29,6 +29,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 354b534eeab7
   - 426d707dfc47
   - 971e07ca4456
@@ -37,6 +38,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 7dfca164d2e3
   - 950d1d49d678
   tool_panel_section_id: variant_calling
