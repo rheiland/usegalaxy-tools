@@ -44,6 +44,7 @@ tools:
   owner: iuc
   revisions:
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
@@ -115,6 +116,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -138,6 +140,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 6f9ffff040ce
   - 701d134358ad
   - 7dfca164d2e3
@@ -182,6 +185,7 @@ tools:
   revisions:
   - 36960e552ddc
   - 51d28b4d3a04
+  - 54def72f84b2
   - 71dfde92fd57
   - 7d9166ecd10f
   - 845a7025ba81
@@ -220,6 +224,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -320,6 +325,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba

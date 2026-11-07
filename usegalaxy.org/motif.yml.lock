@@ -46,6 +46,7 @@ tools:
   owner: iuc
   revisions:
   - 091a9d638d78
+  - 717980a2e234
   - cc100e0f61f4
   tool_panel_section_id: motif
   tool_panel_section_label: Motif

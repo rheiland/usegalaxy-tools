@@ -33,6 +33,7 @@ tools:
   owner: iuc
   revisions:
   - 0622d99c2619
+  - 067dcb71f976
   - 0f3b3813b6ae
   - 18eed8fa7f23
   - 198c75abbf55
@@ -124,5 +125,6 @@ tools:
   owner: iuc
   revisions:
   - b91e1e70f3a1
+  - f63d8665d8ea
   tool_panel_section_id: get_data
   tool_panel_section_label: Get Data

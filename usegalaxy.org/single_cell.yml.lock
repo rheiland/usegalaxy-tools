@@ -95,6 +95,7 @@ tools:
   - 64ff3ef24fae
   - 6acb08931836
   - 6f83f8fd381f
+  - 795751257d82
   - 8983e7a04ba7
   - a84a73471be7
   - aaa5da8e73a9
@@ -692,6 +693,7 @@ tools:
 - name: seurat_clustering
   owner: iuc
   revisions:
+  - 110994732ae2
   - 51eb02d9b17a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -711,6 +713,7 @@ tools:
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - ade6d8b67576
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

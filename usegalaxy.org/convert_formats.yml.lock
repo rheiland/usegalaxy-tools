@@ -65,6 +65,7 @@ tools:
   revisions:
   - 2dcfbbf9071a
   - 68f57cc8fad0
+  - 6fe60ee81d7a
   - 78fb18899c99
   - b8cdc0507586
   tool_panel_section_id: convert_formats
