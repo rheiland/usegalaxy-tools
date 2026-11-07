@@ -142,6 +142,7 @@ tools:
   owner: iuc
   revisions:
   - 637ec5d5368c
+  - 6ecd78daae1b
   - 96e6283e4745
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -160,6 +161,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -364,6 +366,7 @@ tools:
   - 1eafcc450052
   - 65c38d020fea
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: clinod
@@ -380,12 +383,14 @@ tools:
   revisions:
   - 1563b58905f4
   - 554aa2a63f04
+  - b0e8176203e1
   - fa7086274673
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 2b618ed582da
   - 53b22b7dff19
   - 945b31d82638
   - c0a0e79d7196
@@ -404,6 +409,7 @@ tools:
   - 54acd5139cab
   - 640c0b8cc8bf
   - 948903a8555d
+  - aa55042c6e5e
   - d0632d8bac6a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -528,6 +534,7 @@ tools:
   revisions:
   - 20d725740701
   - 6b20d051d0dc
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
@@ -541,6 +548,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - fc7334661489
   tool_panel_section_id: annotation
@@ -556,6 +564,7 @@ tools:
   owner: iuc
   revisions:
   - 7075b7a5441b
+  - 8621b220c13e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: icescreen
@@ -574,6 +583,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - c03be23045b7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -586,6 +596,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 80b0055ba314
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -627,6 +638,7 @@ tools:
 - name: argnorm
   owner: iuc
   revisions:
+  - 9125d3f45f4d
   - d8e95a03321a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -634,6 +646,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - a43aa384ead4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
@@ -681,6 +694,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - c18dbffbc454
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -693,6 +707,7 @@ tools:
 - name: hmmer_hmmbuild
   owner: iuc
   revisions:
+  - 104799b39986
   - 4b996c837ec8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -700,6 +715,7 @@ tools:
   owner: iuc
   revisions:
   - a9dace1a1e36
+  - cbf88bb8b945
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmemit
@@ -712,17 +728,20 @@ tools:
   owner: iuc
   revisions:
   - 34b09461bf87
+  - 64271199b179
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmscan
   owner: iuc
   revisions:
   - 4a54e4c9188b
+  - ec70edb4acd4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmsearch
   owner: iuc
   revisions:
+  - 08cbaba779b2
   - df7a52791be9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -730,6 +749,7 @@ tools:
   owner: iuc
   revisions:
   - 9fdeca68a6b5
+  - b2f12ceedacf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_nhmmer
@@ -741,6 +761,7 @@ tools:
 - name: hmmer_nhmmscan
   owner: iuc
   revisions:
+  - e20829923d8b
   - fb1305d0d1c6
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -748,5 +769,6 @@ tools:
   owner: iuc
   revisions:
   - 37bcc9fb0bb1
+  - b68f1c97f63d
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

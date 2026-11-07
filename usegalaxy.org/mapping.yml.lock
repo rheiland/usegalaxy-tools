@@ -128,6 +128,7 @@ tools:
   - 45795f582ae9
   - 5ef7ec16b04f
   - 79b885ce78d7
+  - 9b1940be9da1
   - a00cceb45700
   - a6fba3d92531
   - e403d27e8f24
@@ -230,6 +231,7 @@ tools:
   - 64d732725a73
   - 7e353b95f0b6
   - ac3bae00a350
+  - f267540c3257
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_chainsort

@@ -129,6 +129,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -245,6 +246,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -378,6 +380,7 @@ tools:
   - 6c571966cfb9
   - 7c9417381ad5
   - 9ec9c22767c8
+  - da25e82a51a8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: pretext_graph
@@ -447,6 +450,7 @@ tools:
   owner: iuc
   revisions:
   - 3967889cda03
+  - 734fbbd94307
   - 8e66f695d859
   - f73ab5187eed
   tool_panel_section_id: assembly
@@ -602,6 +606,7 @@ tools:
   owner: iuc
   revisions:
   - 34245579d255
+  - 825d9ecf8e62
   - 8779f4d2d04d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
