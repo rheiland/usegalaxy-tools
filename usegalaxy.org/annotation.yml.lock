@@ -142,6 +142,7 @@ tools:
   owner: iuc
   revisions:
   - 637ec5d5368c
+  - 6ecd78daae1b
   - 96e6283e4745
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -160,6 +161,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - 39b40a9a6296
   - 3f987772e283
   - 438f65cb1d14
@@ -534,6 +536,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
@@ -574,6 +577,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - c03be23045b7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -712,6 +716,7 @@ tools:
   owner: iuc
   revisions:
   - 34b09461bf87
+  - 64271199b179
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmscan
@@ -723,6 +728,7 @@ tools:
 - name: hmmer_hmmsearch
   owner: iuc
   revisions:
+  - 08cbaba779b2
   - df7a52791be9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation

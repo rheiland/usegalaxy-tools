@@ -504,6 +504,7 @@ tools:
   revisions:
   - b2569e22b40c
   - c5de6c19eb06
+  - dd28d21080f3
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_filter
@@ -518,6 +519,7 @@ tools:
   revisions:
   - 75ee9c410951
   - 7672039a0bb0
+  - aa62ff7e28b5
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_genprop
@@ -525,6 +527,7 @@ tools:
   revisions:
   - 50eaae9df8d3
   - b249bf9be0d1
+  - f620af05e524
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: openbabel_obgrep
@@ -539,6 +542,7 @@ tools:
   revisions:
   - 81836d586797
   - d7f0ca1f2669
+  - fc2a2989c3b1
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: prepare_ligands_for_docking
@@ -565,6 +569,7 @@ tools:
   revisions:
   - 2c5c7da26e08
   - 8302ab092300
+  - d5ad79cfa0ae
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
 - name: rdock_rbcavity
@@ -699,6 +704,7 @@ tools:
   - 43798b4caee0
   - 602de62d995b
   - 8b3e3657034e
+  - 8f51a7500540
   - ef2ad746b589
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
@@ -842,6 +848,7 @@ tools:
 - name: qcxms_production_run
   owner: recetox
   revisions:
+  - 1c7e10729065
   - 69ba95cdcff2
   - cbe34f060712
   tool_panel_section_id: chemicaltoolbox

@@ -81,6 +81,7 @@ tools:
   - 177f0621c266
   - 6027ef51ef91
   - 7566b751e769
+  - b3c10a950efa
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_clipper
@@ -123,6 +124,7 @@ tools:
   revisions:
   - 0b7ec11b3c7c
   - 229caeddb2df
+  - 456be35b3f1b
   - 4bedca26c133
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -313,6 +315,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - 59a3ca730b16
   - 859422bcb689
   - e773f1eb16cf
   tool_panel_section_id: fasta_fastq

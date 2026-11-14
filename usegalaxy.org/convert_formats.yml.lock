@@ -85,6 +85,7 @@ tools:
   - 43807a65369f
   - 4b347702c4aa
   - 614a63f14adf
+  - 9af11085c5c6
   - ccf4e1d1fcbe
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -232,6 +233,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 3cf310697624
