@@ -155,6 +155,7 @@ tools:
   - 8846a03995d3
   - 9291271ec4d9
   - c8bef8f6a1cb
+  - d26d886f48a3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_summary
@@ -164,6 +165,7 @@ tools:
   - 1ae878634ab3
   - 2a2850fdf29e
   - 444e3ed135e3
+  - 773aea6651d2
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: idchoice

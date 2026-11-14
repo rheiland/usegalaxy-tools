@@ -55,6 +55,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -428,6 +429,7 @@ tools:
   revisions:
   - 7624945cacd3
   - c0caca5af183
+  - dea68ccbaaa4
   - e0de12ae3fc2
   - e699e2747356
   tool_panel_section_id: metagenomic_analysis
@@ -693,6 +695,7 @@ tools:
   - 04ba1fa0fe57
   - 05e985e0decf
   - 847f433f202b
+  - ac3cb54afbd0
   - b6a38f6222af
   - c0101c72b8af
   tool_panel_section_id: metagenomic_analysis
@@ -774,6 +777,7 @@ tools:
   - 1d9365ace97d
   - 5466420816b9
   - 82caa8ed507c
+  - 990eccfb0a18
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxonomy_wf
@@ -781,6 +785,7 @@ tools:
   revisions:
   - 0ea86ba426e1
   - 19e4e2d98ebb
+  - 6155f485de04
   - 98731fd340c5
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -797,6 +802,7 @@ tools:
   revisions:
   - 0061483faf7d
   - 46bc08145439
+  - 9e91bebf63b9
   - d0d9e52a46b8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -855,6 +861,7 @@ tools:
 - name: semibin
   owner: iuc
   revisions:
+  - 0689d28fecdf
   - 99ff9221182c
   - afee33334a63
   - b5a7583b8db0
@@ -925,6 +932,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom
@@ -963,6 +971,7 @@ tools:
   revisions:
   - 315c2ed31af1
   - 3a7f73d638ba
+  - f97e21e8704a
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: defense_finder
@@ -974,6 +983,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

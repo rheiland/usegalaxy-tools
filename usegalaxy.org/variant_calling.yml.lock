@@ -149,6 +149,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
   - 426d707dfc47
@@ -270,6 +271,7 @@ tools:
   - 09f5c6f3088a
   - 43fffeed243f
   - 93c4b04a0769
+  - c7a721c21e01
   - ceff2f6a5368
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -336,6 +338,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - cf01dd6c6b1f
   tool_panel_section_id: variant_calling

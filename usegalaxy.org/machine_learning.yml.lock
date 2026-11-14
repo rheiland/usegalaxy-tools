@@ -75,6 +75,7 @@ tools:
   - f2877a8b54e4
   - f4cb41f458fd
   - f5b713d70f1a
+  - fd4ec5f6909d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
@@ -107,6 +108,7 @@ tools:
   - b9906ce4756c
   - bedbda03c573
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
@@ -387,6 +389,7 @@ tools:
   - 7d98dfb04d27
   - dc17e2878dc1
   - f04a2405f3fe
+  - f55053c4a5ec
   - f5dcb87fd14e
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -461,6 +464,7 @@ tools:
   - 22e73afd5206
   - 4a1cd790e323
   - 61fb99c55558
+  - 6ff5b1978b0c
   - bfc44324a773
   - c2a7717d96ce
   - c2e2aa55dd5c
