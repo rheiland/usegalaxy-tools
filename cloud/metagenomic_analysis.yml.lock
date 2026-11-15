@@ -40,6 +40,7 @@ tools:
 - name: semibin
   owner: iuc
   revisions:
+  - 0689d28fecdf
   - afee33334a63
   - b5a7583b8db0
   tool_panel_section_id: metagenomic_analysis
@@ -142,12 +143,14 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: krakentools_extract_kraken_reads
   owner: iuc
   revisions:
+  - 04eb022d7409
   - 3b1963f729cb
   - f329328da134
   tool_panel_section_id: metagenomic_analysis
@@ -164,6 +167,7 @@ tools:
   owner: iuc
   revisions:
   - 30e275ed0442
+  - d177e58c5a5e
   - f1d1dafc836d
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -193,6 +197,7 @@ tools:
   revisions:
   - 47198090501e
   - b35a5e8ff0fe
+  - d16fa2560df4
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_mergepairs
@@ -206,6 +211,7 @@ tools:
   owner: iuc
   revisions:
   - 88677f452aea
+  - ab69311d2da2
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -239,6 +245,7 @@ tools:
 - name: mash_paste
   owner: iuc
   revisions:
+  - b761da3edc76
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
