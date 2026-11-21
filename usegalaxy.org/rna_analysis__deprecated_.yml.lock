@@ -43,6 +43,7 @@ tools:
   owner: devteam
   revisions:
   - 28b94cfbfdb9
+  - 7e58536d5cc6
   - 9a854107dbb2
   - f5b2ee725d34
   tool_panel_section_id: rna_analysis__deprecated_

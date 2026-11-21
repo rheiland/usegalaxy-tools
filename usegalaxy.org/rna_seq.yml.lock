@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -116,6 +118,7 @@ tools:
   - 40985510cd98
   - 4f9c4e6566e5
   - 60f888039fb2
+  - a2b65af988d2
   - c971db6f0fe5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -302,6 +305,7 @@ tools:
   - 3a083c78896e
   - c24765926774
   - d1f7fa5bb3cb
+  - fbba3e57c350
   - fed9d0350d72
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -446,6 +450,7 @@ tools:
   - 7c7fbf13aadd
   - 964b7efe2639
   - ba460ccf0006
+  - ff5c4df05bee
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: trinotate
@@ -522,6 +527,7 @@ tools:
   owner: iuc
   revisions:
   - 6492560fe1b4
+  - 672029ec4a0b
   - 9930af9d17f8
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
