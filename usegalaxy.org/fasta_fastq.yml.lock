@@ -31,6 +31,7 @@ tools:
   - c0b2c2e39c9c
   - c5e2e5902201
   - de6cebe3c043
+  - e075c7e866d1
   - e4691e1589d3
   - f5fdf41c08b8
   - fe74900d6dc7
@@ -141,6 +142,7 @@ tools:
   - 045f0e1043f7
   - 54053ea6c77e
   - 86713dc416ec
+  - e4634c67ee8d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastq_paired_end_joiner
@@ -167,6 +169,7 @@ tools:
   owner: devteam
   revisions:
   - 03d57fea6482
+  - 33e27e311d03
   - 523c2aff0376
   - b7ce72b00e62
   - c48cf4699be7
@@ -184,11 +187,13 @@ tools:
   revisions:
   - 8bb1d9180ce7
   - df49645c6f6d
+  - e69d05d86d79
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 22a535d54360
   - 911de3a36b31
   - c19015f577a5
@@ -257,6 +262,7 @@ tools:
   owner: bgruening
   revisions:
   - 084bbd8ba7b8
+  - 7462caed7065
   - 949f01671246
   - b94789823aad
   - cd7e644cae1d
@@ -305,6 +311,7 @@ tools:
   revisions:
   - 091ca73f5804
   - 90e8c76156a7
+  - dac07dd4fbd7
   - ec0b5076173a
   - f773e98b26cf
   tool_panel_section_id: fasta_fastq
@@ -373,6 +380,7 @@ tools:
 - name: sickle
   owner: iuc
   revisions:
+  - 482fb7008500
   - 6756c87dc2d4
   - 9108bd9450cb
   tool_panel_section_id: fasta_fastq
@@ -402,6 +410,7 @@ tools:
   revisions:
   - 733ca84b21ee
   - 7521d865e770
+  - c6e3d6cf49df
   - d5c640895ed6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -467,6 +476,7 @@ tools:
 - name: fasta_regex_finder
   owner: mbernt
   revisions:
+  - 5a6ec4585bc9
   - 9a811adb714f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

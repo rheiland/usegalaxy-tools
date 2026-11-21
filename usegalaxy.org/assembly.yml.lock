@@ -35,6 +35,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -89,6 +90,7 @@ tools:
   owner: nml
   revisions:
   - 05c394313b1c
+  - 5381d83e9492
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -127,6 +129,7 @@ tools:
   - 5bd3f053c303
   - 5fc94b3a4704
   - 675ee1aa5952
+  - 87ab790abdf6
   - 9e58ff014088
   - a8a278849c18
   - e122f9101584
@@ -166,6 +169,7 @@ tools:
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
+  - 3f9338d118f6
   - 4ae660dd1fb6
   - 655fa188c3cc
   - 9678993ca5bd
@@ -184,6 +188,7 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - b321487d5cd9
   - c33a476f4001
   - d89ced9439f3
   tool_panel_section_id: assembly
@@ -387,6 +392,7 @@ tools:
   - 408ece2e4647
   - 75b4a2298714
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -625,6 +631,7 @@ tools:
   owner: iuc
   revisions:
   - b3c3217c0cbc
+  - e1739974508f
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: vgp_chromosome_assignment

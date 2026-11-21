@@ -29,6 +29,7 @@ tools:
   owner: devteam
   revisions:
   - 166c4f50525f
+  - 2116f9563368
   - 6f6bf10618d7
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -65,6 +66,7 @@ tools:
 - name: vcfhethom
   owner: devteam
   revisions:
+  - 71f5bce189c5
   - 8254e0fe7358
   - b07ef36cf7e6
   tool_panel_section_id: vcf_bcf
@@ -74,6 +76,7 @@ tools:
   revisions:
   - a60ae8af21a1
   - f5653ed90dfd
+  - fb57e663bc4a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfgeno2haplo
@@ -113,6 +116,7 @@ tools:
 - name: vcfcombine
   owner: devteam
   revisions:
+  - 0c3033cc02fe
   - 1f0ba67cc85a
   - 53edb91ed051
   tool_panel_section_id: vcf_bcf
@@ -195,6 +199,7 @@ tools:
   - 4b796b58938b
   - 8aa9d9b14bcd
   - 9268b0ad92af
+  - 95e370911d4c
   - aa998b9898b1
   - b74b8cbfc1f1
   - bdfdf5f6e950
@@ -274,6 +279,7 @@ tools:
   - a892912c09d5
   - abafcb875ba6
   - bc199fd136f8
+  - e6074f40d2b3
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_view
@@ -462,6 +468,7 @@ tools:
   revisions:
   - 05f317e50e61
   - 08296952d12f
+  - 3d0090b86c7a
   - 5ee777f9db23
   - 74303445f6bd
   - 81426b3cf18b
