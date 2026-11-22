@@ -6,6 +6,7 @@ tools:
 - name: bcftools_consensus
   owner: iuc
   revisions:
+  - 5490a1c40d58
   - 8aa352093d73
   - 9a260f6fab93
   - d6dc477167f8
@@ -14,6 +15,7 @@ tools:
 - name: bcftools_gtcheck
   owner: iuc
   revisions:
+  - 4d18869714bb
   - 672b6c02fbc7
   - 68d04cd5d35a
   - 7b4454382d39
@@ -23,6 +25,7 @@ tools:
   owner: iuc
   revisions:
   - '365325116147'
+  - c72d6d81f3c2
   - dd72ff87cfd0
   - f203ea355bc8
   tool_panel_section_id: vcf_bcf
@@ -30,6 +33,7 @@ tools:
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 288d47b99a01
   - 68736d355615
   - cfd81f17580b
   - fec517907949
@@ -39,6 +43,7 @@ tools:
   owner: iuc
   revisions:
   - 271965b55437
+  - 56f9ad455424
   - 5fa262ce95dd
   - c077f71d351f
   tool_panel_section_id: vcf_bcf
@@ -47,6 +52,7 @@ tools:
   owner: iuc
   revisions:
   - 2c80b0d6bde0
+  - 42ea0834eacb
   - ed4ea9de1791
   - fb631fd605e8
   tool_panel_section_id: vcf_bcf
@@ -57,6 +63,7 @@ tools:
   - 793ae03deb13
   - 8b260d252ff4
   - dfef7a353ed0
+  - fe8a50b18a1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_cnv
@@ -73,6 +80,7 @@ tools:
   - 394dbf428c7b
   - 8abfcd1a6949
   - a730269af659
+  - d4fb37427a61
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_counts
@@ -88,6 +96,7 @@ tools:
   revisions:
   - 0a5dcc9a8ec2
   - 0dbff46d5a1b
+  - 2776f8e0a1d3
   - 43f0efd586c4
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -150,6 +159,7 @@ tools:
 - name: bcftools_plugin_fill_tags
   owner: iuc
   revisions:
+  - 726af0d7c6ec
   - b10d1510fa84
   - bf7d6acd9884
   - fea209b23f19
@@ -161,6 +171,7 @@ tools:
   - 02f349bdbf96
   - 39bca000353d
   - 3d21f507fc5d
+  - 6de9e8a3619b
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_merge
@@ -174,6 +185,7 @@ tools:
 - name: bcftools_roh
   owner: iuc
   revisions:
+  - 3c3b4af46dd6
   - acfd6984d130
   - b76adb2f1c51
   - fa65af07ce7d
@@ -253,6 +265,7 @@ tools:
   owner: devteam
   revisions:
   - 6ea73d6151ec
+  - 6f12c4ce6c8c
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfallelicprimitives
@@ -314,12 +327,14 @@ tools:
 - name: vcfflatten
   owner: devteam
   revisions:
+  - 4ab2e9409403
   - f285aa6bdcfb
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfgeno2haplo
   owner: devteam
   revisions:
+  - 1f387bdec36f
   - a3dea556218d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -345,6 +360,7 @@ tools:
   owner: devteam
   revisions:
   - 17096387c0e6
+  - e87a701d9452
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfrandomsample
@@ -370,12 +386,14 @@ tools:
 - name: vcfselectsamples
   owner: devteam
   revisions:
+  - 019656c5fb3d
   - 2ba3b87f904f
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: vcfdistance
   owner: devteam
   revisions:
+  - 359c94784f55
   - 5822b40f3037
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
